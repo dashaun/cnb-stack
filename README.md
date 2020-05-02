@@ -3,9 +3,10 @@
 Custom stack for cloud native buildpacks.
 
 ## Public Images Available
-[dashaun/cnb-stack-base](https://hub.docker.com/r/dashaun/cnb-stack-base)
-[dashaun/cnb-stack-build](https://hub.docker.com/r/dashaun/cnb-stack-build)
-[dashaun/cnb-stack-run](https://hub.docker.com/r/dashaun/cnb-stack-run)
+
+- [dashaun/cnb-stack-base](https://hub.docker.com/r/dashaun/cnb-stack-base)
+- [dashaun/cnb-stack-build](https://hub.docker.com/r/dashaun/cnb-stack-build)
+- [dashaun/cnb-stack-run](https://hub.docker.com/r/dashaun/cnb-stack-run)
 
 ## Why?
 
